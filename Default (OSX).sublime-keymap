@@ -1,0 +1,21 @@
+[
+  { "keys": 
+    [":"], 
+    "command": "insert", 
+    "args": {"characters": ": "},
+    "context": [{
+      "operand" : "source.css, source.scss", 
+      "match_all": true,
+      "operator": "equal",
+      "key": "selector"
+    }]  
+  },
+  { "keys": 
+    ["super+shift+v"], 
+    "command": "paste" 
+  },
+  { "keys": 
+    ["super+v"], 
+    "command": "paste_and_indent" 
+  }
+]

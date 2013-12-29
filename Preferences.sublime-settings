@@ -1,0 +1,24 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "source code pro light",
+	"font_size": 16.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"AdvancedNewFile"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
