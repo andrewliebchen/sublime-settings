@@ -498,9 +498,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#bf616a</string>
+				<string>#FFCED2</string>
 				<key>foreground</key>
-				<string>#73809B</string>
+				<string>#bf616a</string>
 			</dict>
 		</dict>
 	</array>
