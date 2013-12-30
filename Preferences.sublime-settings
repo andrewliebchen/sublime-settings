@@ -20,5 +20,6 @@
 	],
 	"tab_size": 2,
 	"theme": "Spacegray.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"hayaku_CSS_prefixes_disable": true
 }
